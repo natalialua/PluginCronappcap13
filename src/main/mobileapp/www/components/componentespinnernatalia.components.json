@@ -1,0 +1,12 @@
+{
+    "name": "crn-componentespinnernatalia",
+    "text": "ComponenteSpinner- Natalia",
+    "class": "adjust-icon mdi mdi-checkerboard",
+    "templateURL": "${webcontent}/components/templates/componentespinnernatalia.template.html",
+    "properties": {
+        "onchange": {
+            "removable": true,
+            "type": "event"
+        }
+    }
+}
